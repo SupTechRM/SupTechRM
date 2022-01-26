@@ -2,9 +2,6 @@
   <img src="https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.png">
 </p> 
 
-<p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
-</p>
 
 <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
@@ -14,7 +11,8 @@
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupTechRM)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupTechRM&show_icons=true&theme=radical)
+
 
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h3>Hi! 👋<br>I'm Rishabh Mishra<br>a Writer, Web Developer & IT Consultant</h3>
