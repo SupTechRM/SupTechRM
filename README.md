@@ -10,11 +10,11 @@
 
 - :smiley:	A Student
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- :robot:	 Built Seven. An AI, The real Jarvis. 
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love building products, and solving problems, and writing code.  
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/SupTechRM/SupTechRM/issues)
 
 **Languages and Tools:**  
 
