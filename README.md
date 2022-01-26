@@ -1,8 +1,8 @@
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
-<h3>Hi! 👋<br>I'm Rishabh Mishra<br>a Writer, Web Developer & IT Consultant</h3>
+<h3>Hi! 👋<br>I'm Rishabh Mishra<br>a Programmer, Problem Solver & And a Tech Enthusiast</h3>
   <img src="https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.png">
 
-<h6>I build <a href="https://stephenajulu.com/portfolio">websites</a>, write <a href="https://stephenajulu.com/blog">articles</a>, design <a href="https://stephenajulu.com/portfolio">graphics</a>, provide <a href="https://stephenajulu.com/book-a-consultation">advice</a> and sell <a href="https://stephenajulu.com/store">digital products</a>.<br>I have 8 years of tech experience, creating products, content and solutons while providing IT services.<br>Do you have a project or need a solution? Then ↴<br><a href="https://stephenajulu.com/contact">Contact me to get in touch now!</a></h6>
+<h6>I build products</a>, write articles</a>, design websites</a>, provide marketings docs</a> and persist towards the future of tech.</a>.<br>I have 3 years of tech experience, creating products, content and solutons.<br>Do you have an idea or need a solution? Then ↴<br><a href="https://stephenajulu.com/contact">Contact me to get in touch now!</a></h6>
 
 <h4> <a href="https://stephenajulu.com/links">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://stephenajulu.com/blog">Blog</a> • <a href="https://stephenajulu.com/store">Store</a> • <a href="https://www.paypal.com/donate/?hosted_button_id=SLNMRAJ59LRC8">Donate</a> • <a href="https://stephenajulu.substack.com">Newsletter</a></h4>
 
@@ -28,8 +28,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupTechRM&show_icons=true&theme=radical)]
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
