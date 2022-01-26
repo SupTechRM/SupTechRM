@@ -48,7 +48,5 @@
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupTechRM&show_icons=true&theme=radical)
-
-
+<h3>Thank you! :love_you_gesture:<br>for scrolling till here. Stay tuned for my latest product release Seven: The AI. You'll love it! </h3>
 
