@@ -4,11 +4,11 @@
 
 <h6>I build products</a>, write articles</a>, design websites</a>, provide marketings docs</a> and persist towards the future of tech.</a>.<br>I have 3 years of tech experience, creating products, content and solutons.<br>Do you have an idea or need a solution? Then ↴<br><a href="mailto:bestatcricketinaparna@gmail.com">Contact me to get in touch now!</a></h6>
 
-<h4> <a href="https://stephenajulu.com/links">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://stephenajulu.com/blog">Blog</a> • <a href="https://stephenajulu.com/store">Store</a> • <a href="https://www.paypal.com/donate/?hosted_button_id=SLNMRAJ59LRC8">Donate</a> • <a href="https://stephenajulu.substack.com">Newsletter</a></h4>
+
 
 **About me**
 
-- https://emojipedia.org/apple/ Student
+- :smiley:	A Student
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
