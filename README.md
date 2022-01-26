@@ -1,7 +1,7 @@
+<p align="center">
+  <img src="https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.png">
+</p> 
 
-<p align='center'>
-	<a><img>[![suptechrm header](https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.png)]</img></a>
-</p>
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
 </p>
