@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.png)](https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.png)
 
 ### Hi there 👋
 
