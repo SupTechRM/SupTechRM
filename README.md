@@ -1,4 +1,4 @@
-[![Header](https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.png)](https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.png)
+[![Header](https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.mp4)](https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.mp4)
 
 ### Hi there 👋
 
