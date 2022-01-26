@@ -50,5 +50,5 @@
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 -->
 
-<h3>Thank you! :love_you_gesture:<br>for scrolling till here. Stay tuned for my latest product release Seven: The AI. You'll love it! </h3>
+<h3>Thank you! :love_you_gesture:<br>for scrolling till here. Stay tuned for my latest product release <a href="https://github.com/SupTechRM/Seven">Seven</a>. You'll love it! </h3>
 
