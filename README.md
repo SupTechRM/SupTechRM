@@ -2,7 +2,7 @@
 <h3>Hi! 👋<br>I'm Rishabh Mishra<br>a Programmer, Problem Solver & And a Tech Enthusiast</h3>
   <img src="https://github.com/SupTechRM/SupTechRM/blob/main/Sunrise%20Horizon.png">
 
-<h6>I build products</a>, write articles</a>, design websites</a>, provide marketings docs</a> and persist towards the future of tech.</a>.<br>I have 3 years of tech experience, creating products, content and solutons.<br>Do you have an idea or need a solution? Then ↴<br><a href="mailto:bestatcricketinaparna@gmail.com">Contact me to get in touch now!</a></h6>
+<h6>I build products</a>, write articles</a>, design websites</a>, provide marketing docs</a> and persist towards the future of tech.</a>.<br>I have 3 years of tech experience, creating products, content and solutions.<br>Do you have an idea or need a solution? Then ↴<br><a href="mailto:bestatcricketinaparna@gmail.com">Contact me to get in touch now!</a></h6>
 
 
 
